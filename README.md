@@ -1,2 +1,2 @@
-# ProjetoBaseEstacoes
-projeto base para o desenvolvimento dos códigos das estações.
+# EfeitosSonorosRadioGremio
+Mesa de mídias com áudios para efeitos sonoros especiais da rádio Grêmio Estudantil
